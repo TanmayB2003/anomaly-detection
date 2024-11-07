@@ -42,8 +42,8 @@ Ensure that you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/efficient-data-stream-anomaly-detection.git
-   cd efficient-data-stream-anomaly-detection
+   git clone https://github.com/TanmayB2003/anomaly-detection.git
+   cd anomaly-detection
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
